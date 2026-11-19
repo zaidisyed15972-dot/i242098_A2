@@ -1,3 +1,4 @@
+import React from "react";
 import { useVisit } from "../context/VisitContext.jsx";
 
 export default function FilterBar({

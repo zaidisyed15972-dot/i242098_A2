@@ -1,3 +1,4 @@
+import React from "react";
 import { Link } from "react-router-dom";
 import { useVisit } from "../context/VisitContext.jsx";
 import ExhibitCard from "../components/ExhibitCard.jsx";

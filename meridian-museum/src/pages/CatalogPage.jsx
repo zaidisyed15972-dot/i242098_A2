@@ -1,4 +1,4 @@
-import { useMemo } from "react";
+import React, { useMemo } from "react";
 import { useSearchParams, Link } from "react-router-dom";
 import { useVisit } from "../context/VisitContext.jsx";
 import FilterBar from "../components/FilterBar.jsx";

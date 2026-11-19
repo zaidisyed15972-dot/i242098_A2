@@ -1,3 +1,4 @@
+import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { VisitProvider } from "./context/VisitContext.jsx";
 import Navbar from "./components/Navbar.jsx";
